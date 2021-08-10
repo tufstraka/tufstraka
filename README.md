@@ -1,12 +1,8 @@
-<div align="center" style='display:flex'>
+<div align="center">
  
- ![image](https://user-images.githubusercontent.com/67703106/128850270-f96d0a7e-b220-4052-8cbb-626c43261df5.png)
+ ![image](https://user-images.githubusercontent.com/67703106/128850270-f96d0a7e-b220-4052-8cbb-626c43261df5.png) 
 
- 
-<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=200 height=200 />  
 </div>
-
-<h3 align="left">Hi there 👋👋 </h3>
 
 ---
 
