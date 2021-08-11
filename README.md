@@ -7,8 +7,6 @@
 ---
 
 Kadima here!</br>
-I'm a student geospatial engineer focused on developing useful solutions to meet changing business and customer demands. Always curious and has an insatiable thirst to learn new things and explore more domains. A firm believer of "Do and learn". 
-
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : HTML, CSS, JS
 - 🌱 I’m currently learning : Cloud Computing, Matlab, NodeJs.
