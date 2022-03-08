@@ -13,7 +13,7 @@ Kadima here!</br>
 > Anything and everything interesting💡
 
 - 💬 Ask me about : 
-> Frontend Development - HTML, CSS, JS
+> Frontend Development - HTML, CSS, JavaScript
 
 - 🌱 I’m currently learning : 
 
