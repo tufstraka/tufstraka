@@ -20,7 +20,7 @@ Kadima here!</br>
 > A lot of things including but not limited to -
 > - Embedded Systems.
 > - Data analysis and visualization.
-> - School stuff ( Geospatial Engineering and Space Technology ).
+> - Geospatial and Space Technology.
 > - Machine Learning.
 > - Cloud engineering.
 
