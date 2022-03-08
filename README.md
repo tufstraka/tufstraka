@@ -22,7 +22,7 @@ Kadima here!</br>
 > - Data analysis and visualization.
 > - School stuff ( Geospatial Engineering and Space Technology ).
 > - Machine Learning.
-> - Cloud computing.
+> - Cloud engineering.
 
 - 📫 How to reach me: 
 
