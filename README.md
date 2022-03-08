@@ -10,7 +10,8 @@
 Kadima here!</br>
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : HTML, CSS, JS
-- 🌱 I’m currently learning : C++.
+- 🌱 I’m currently learning : 
+> A lot of things.
 - 📫 How to reach me: 
   * keithkadima@gmail.com 
   * www.linkedin.com/in/kadimakeith
