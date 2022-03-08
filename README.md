@@ -9,12 +9,16 @@
 
 Kadima here!</br>
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
-- 💬 Ask me about : HTML, CSS, JS
+
+- 💬 Ask me about : 
+> Frontend Development - HTML, CSS, JS
 - 🌱 I’m currently learning : 
 > A lot of things.
+
 - 📫 How to reach me: 
-  * keithkadima@gmail.com 
-  * www.linkedin.com/in/kadimakeith
+
+> * keithkadima@gmail.com 
+> * www.linkedin.com/in/kadimakeith
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadimakeith&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
