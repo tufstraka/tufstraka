@@ -8,12 +8,19 @@
 ---
 
 Kadima here!</br>
-- 👯 I’m looking to collaborate on: anything and everything interesting💡
+- 👯 I’m looking to collaborate on:
+
+> Anything and everything interesting💡
 
 - 💬 Ask me about : 
 > Frontend Development - HTML, CSS, JS
+
 - 🌱 I’m currently learning : 
-> A lot of things.
+
+> A lot of things including but not limited to -
+> - Embedded Systems
+> - Data Visualization using d3.js
+> - School Stuff ( Geospatial Engineering and Space Technology )
 
 - 📫 How to reach me: 
 
