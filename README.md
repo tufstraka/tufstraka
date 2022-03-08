@@ -13,14 +13,16 @@ Kadima here!</br>
 > Anything and everything interesting💡
 
 - 💬 Ask me about : 
-> Frontend Development - HTML, CSS, JavaScript
+> Frontend Development - HTML, CSS, JavaScript.
 
 - 🌱 I’m currently learning : 
 
 > A lot of things including but not limited to -
-> - Embedded Systems
-> - Data Visualization using d3.js
-> - School Stuff ( Geospatial Engineering and Space Technology )
+> - Embedded Systems.
+> - Data analysis and visualization.
+> - School stuff ( Geospatial Engineering and Space Technology ).
+> - Machine Learning.
+> - Cloud computing.
 
 - 📫 How to reach me: 
 
