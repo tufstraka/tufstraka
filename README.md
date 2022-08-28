@@ -7,7 +7,7 @@
 
 ---
 
-Kadima here!</br>
+Hey there!</br>
 - 👯 I’m looking to collaborate on:
 
 > Anything and everything interesting💡
