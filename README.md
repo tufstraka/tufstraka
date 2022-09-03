@@ -8,9 +8,8 @@
 
 ---
 
-Hey there!</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Human+...)](https://git.io/typing-svg)</br>
 
-[![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=kadimakeith&theme=gruvbox&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kadimakeith)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 </br>
