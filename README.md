@@ -9,6 +9,10 @@
 ---
 
 Hey there!</br>
+
+[![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=kadimakeith&theme=gruvbox&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kadimakeith)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 - 👯 I’m looking to collaborate on:
 
 > Anything and everything interesting💡
