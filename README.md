@@ -7,20 +7,20 @@
 
 ### 👯 I’m looking to collaborate on:
 
-> Anything and everything interesting💡
+Anything and everything interesting 💡
 
 ### 💬 Ask me about :
 
-> Frontend Development - HTML, CSS, JavaScript.
+Frontend Development - HTML, CSS, JavaScript.
 
 ### 🌱 I’m currently learning : 
 
-> A lot of things including but not limited to -
-> - Embedded Systems.
-> - Data analysis and visualization.
-> - Geospatial and Space Technology.
-> - Machine Learning.
-> - Cloud engineering.
+A lot of things including but not limited to -
+- Embedded Systems.
+- Data analysis and visualization.
+- Geospatial and Space Technology.
+- Machine Learning.
+- Cloud engineering.
 
 ### :hammer_and_wrench:Languages and tools:  
   <div>
@@ -38,8 +38,8 @@
 
 ### 📫 How to reach me: 
 
-> * keithkadima@gmail.com 
-> * www.linkedin.com/in/kadimakeith
+* keithkadima@gmail.com 
+* www.linkedin.com/in/kadimakeith
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
