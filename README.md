@@ -14,15 +14,15 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 </br>
 
-- 👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on:
 
 > Anything and everything interesting💡
 
-- 💬 Ask me about :
+### 💬 Ask me about :
 
 > Frontend Development - HTML, CSS, JavaScript.
 
-- 🌱 I’m currently learning : 
+### 🌱 I’m currently learning : 
 
 > A lot of things including but not limited to -
 > - Embedded Systems.
@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div> 
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 
 > * keithkadima@gmail.com 
 > * www.linkedin.com/in/kadimakeith
