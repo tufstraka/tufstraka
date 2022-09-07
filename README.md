@@ -43,4 +43,6 @@ A lot of things including but not limited to -
 * www.linkedin.com/in/kadimakeith
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-light-mode-only)
