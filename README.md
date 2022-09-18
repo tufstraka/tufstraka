@@ -1,6 +1,6 @@
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Human+...;Feel+free+to+look+around)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Human...;Feel+free+to+look+around..&font=Nabla)](https://git.io/typing-svg)</br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 </br>
