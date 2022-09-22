@@ -1,10 +1,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 </br>
 
-### 👯 I’m looking to collaborate on:
-
-Anything and everything interesting 💡
-
 ### 💬 Ask me about :
 
 Frontend Development - HTML, CSS, JavaScript.
