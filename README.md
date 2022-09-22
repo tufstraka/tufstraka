@@ -1,10 +1,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 </br>
 
-### 💬 Ask me about :
-
-Frontend Development - HTML, CSS, JavaScript.
-
 ### :hammer_and_wrench:Languages and tools:  
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="React js" width="40" height="40"/>&nbsp;
