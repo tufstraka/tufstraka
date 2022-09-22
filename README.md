@@ -21,14 +21,12 @@ Frontend Development - HTML, CSS, JavaScript.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux/Unix" width="40" height="40"/>
   </div> 
 
-<big>
-  <pre>
-      &#62; ./send_me_an_email
-      [keithkadima@gmail.com](mailto:keithkadima@gmail.com)
-      &#62; ./connect_on_linkedin
-      [linkedin.com/in/kadimakeith](https://linkedin.com/in/kadimakeith)
-  </pre>
-</big>
+<big><pre>
+&#62; ./send_me_an_email
+[keithkadima@gmail.com](mailto:keithkadima@gmail.com)
+&#62; ./connect_on_linkedin
+[linkedin.com/in/kadimakeith](https://linkedin.com/in/kadimakeith)
+</pre></big>
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-light-mode-only)
