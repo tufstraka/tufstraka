@@ -5,15 +5,6 @@
 
 Frontend Development - HTML, CSS, JavaScript.
 
-### 🌱 I’m currently learning : 
-
-A lot of things including but not limited to -
-- Embedded Systems.
-- Data analysis and visualization.
-- Geospatial and Space Technology.
-- Machine Learning.
-- Cloud engineering.
-
 ### :hammer_and_wrench:Languages and tools:  
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="React js" width="40" height="40"/>&nbsp;
