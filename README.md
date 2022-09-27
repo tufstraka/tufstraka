@@ -1,5 +1,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
-</br>
 
 ### :hammer_and_wrench:Languages and tools:  
   <div>
