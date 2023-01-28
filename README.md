@@ -1,6 +1,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
 
-### :hammer_and_wrench:Languages and tools:  
+### :hammer_and_wrench: Languages and tools  
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express js" width="40" height="40"/>
