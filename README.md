@@ -25,6 +25,7 @@
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+  ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
 
 <br/>
 
