@@ -1,5 +1,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadimakeith&theme=gruvbox" alt="kadimakeith" />
-[![Discord Presence](https://lanyard.cnrad.dev/api/akashikoverlord#3250)](https://discord.com/users/akashikoverlord#3250)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
