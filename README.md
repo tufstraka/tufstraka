@@ -1,4 +1,4 @@
-
+![](https://dcbadge.vercel.app/api/shield/725692861735108670)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
