@@ -29,14 +29,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
 
-<br/>
-
-<big><pre>
-&#62; ./send_me_an_email
-[keithkadima@gmail.com](mailto:keithkadima@gmail.com)
-&#62; ./connect_on_linkedin
-[linkedin.com/in/kadimakeith](https://linkedin.com/in/kadimakeith)
-</pre></big>
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-light-mode-only)
