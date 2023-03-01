@@ -1,8 +1,5 @@
 ![](https://dcbadge.vercel.app/api/shield/725692861735108670)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/725692861735108670)](https://discord.com/users/725692861735108670)
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📱 &nbsp;Mobile:&nbsp;
