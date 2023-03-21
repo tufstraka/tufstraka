@@ -1,3 +1,5 @@
+#### Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -9,7 +11,7 @@ Other    0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
