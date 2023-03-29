@@ -18,6 +18,4 @@ jobs:
           LANG_COUNT: 7
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          
           
