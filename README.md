@@ -1,15 +1,6 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-From: 22 March 2023 - To: 29 March 2023
-
-Total Time: 2 hrs 22 mins
-
-Other        46 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.82 %
-```
-
 <!--END_SECTION:waka-->
 
 <!--#### 🛠 &nbsp;Tech Stack
