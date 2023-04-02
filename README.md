@@ -2,6 +2,16 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 25 March 2023 - To: 01 April 2023
+
+Total Time: 2 hrs 53 mins
+
+JavaScript   1 hr 5 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.77 %
+sh           32 mins         ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.76 %
+Other        31 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.06 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--#### 🛠 &nbsp;Tech Stack
