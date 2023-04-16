@@ -7,6 +7,17 @@
 <!-- Profile Views: END -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 April 2023 - To: 15 April 2023
+
+Total Time: 5 hrs 46 mins
+
+JavaScript   4 hrs 35 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.46 %
+CSS          26 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.67 %
+Other        23 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.68 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--#### 🛠 &nbsp;Tech Stack
