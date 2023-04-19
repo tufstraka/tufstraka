@@ -1,16 +1,10 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-I'm currently doing the following:
-- Working on ALX Software Engineering Program. 💻
-- Upgrading my old projects. 👩‍🚀
-- Brainstorming new projects. 🚀
-
-I'm open to working on anything that's interesting < IoT 🤖, Web 🕸, Mobile 📲, Dapps ⚡ > . Feel free to ping me. <br/> <br/>
-My E-mails - keithkadima@gmail.com | keithkadima@outlook.com
-  
- 
+🚀 Currently leveling up in the ALX Software Engineering Program. <br/> <br/>
+💻 Upgrading my old projects and brainstorming new ones. <br/> <br/>
+🤖 IoT, 🕸 Web, 📲 Mobile, ⚡ Dapps - I'm interested in all things tech. If you have a cool project idea, feel free to ping me! <br/> <br/>
+✉️ You can reach me at keithkadima@gmail.com or keithkadima@outlook.com. <br/> <br/>
 <!--#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
