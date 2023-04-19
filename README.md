@@ -1,26 +1,16 @@
-<link rel="stylesheet" href="style.css">
-
 
 <!--START_SECTION:waka-->
-
-```text
-From: 11 April 2023 - To: 18 April 2023
-
-Total Time: 5 hrs 42 mins
-
-JavaScript   4 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.88 %
-Bash         30 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.02 %
-Other        23 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.76 %
-```
-
 <!--END_SECTION:waka-->
+
 I'm currently doing the following:
-- Working on the ALX Software Engineering Program. 💻
+- Working on ALX Software Engineering Program. 💻
 - Upgrading my old projects. 👩‍🚀
 - Brainstorming new projects. 🚀
 
 I'm open to working on anything that's interesting < IoT 🤖, Web 🕸, Mobile 📲, Dapps ⚡ > . Feel free to ping me. <br/> <br/>
 My E-mails - keithkadima@gmail.com | keithkadima@outlook.com
+  
+ 
 <!--#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
