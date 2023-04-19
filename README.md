@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 
 
 <!--START_SECTION:waka-->
@@ -13,7 +14,13 @@ Other        23 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+I'm currently doing the following:
+- Working on the ALX Software Engineering Program. 💻
+- Upgrading my old projects. 👩‍🚀
+- Brainstorming new projects. 🚀
 
+I'm open to working on anything that's interesting < IoT 🤖, Web 🕸, Mobile 📲, Dapps ⚡ > . Feel free to ping me. <br/> <br/>
+My E-mails - keithkadima@gmail.com | keithkadima@outlook.com
 <!--#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
