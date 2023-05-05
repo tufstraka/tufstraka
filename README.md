@@ -2,10 +2,6 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-🚀 Currently leveling up in the ALX Software Engineering Program. <br/> <br/>
-💻 Upgrading my old projects and brainstorming new ones. <br/> <br/>
-🤖 IoT, 🕸 Web, 📲 Mobile, ⚡ Dapps - I'm interested in all things tech. If you have a cool project idea, feel free to ping me! <br/> <br/>
-✉️ You can reach me at keithkadima@gmail.com or keithkadima@outlook.com. <br/> <br/>
 <!--#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
@@ -33,8 +29,5 @@
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)-->
 
-
-![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-light-mode-only)
