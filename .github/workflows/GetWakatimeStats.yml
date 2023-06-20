@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: 
   schedule:
-    - cron: "54 11 * * *" # Runs at 6:00 am Kenyan ⌚ everyday
+    - cron: "0 3 * * *" # Runs at 6:00 am Kenyan ⌚ everyday
 
 
 jobs:
