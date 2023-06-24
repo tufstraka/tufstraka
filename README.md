@@ -1,6 +1,15 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 16 June 2023 - To: 23 June 2023
+
+Total Time: 2 hrs 30 mins
+
+JavaScript   2 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.87 %
+CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.13 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--#### 🛠 &nbsp;Tech Stack
