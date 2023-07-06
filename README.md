@@ -1,17 +1,4 @@
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 June 2023 - To: 05 July 2023
-
-Total Time: 31 mins
-
-JavaScript   28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   89.83 %
-Markdown     2 mins          ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.42 %
-Python       0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.75 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--#### 🛠 &nbsp;Tech Stack
 
