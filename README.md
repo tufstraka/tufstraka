@@ -1,15 +1,7 @@
 <!--START_SECTION:waka-->
-
-```txt
-From: 24 July 2023 - To: 31 July 2023
-
-Total Time: 16 mins
-
-Markdown   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.40 %
-Python     7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.60 %
-```
-
 <!--END_SECTION:waka-->
+
+[![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)
 
 <!--#### 🛠 &nbsp;Tech Stack
 
