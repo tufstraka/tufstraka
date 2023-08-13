@@ -3,12 +3,6 @@
 
 [![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)
 
-<div>
-  <a href="https://github.com/tufstraka">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tufstraka&theme=slateorange" />
-  </a>
-</div>
-
 <!--#### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
