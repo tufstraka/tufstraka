@@ -1,4 +1,16 @@
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 September 2023 - To: 19 September 2023
+
+Total Time: 4 hrs 32 mins
+
+JavaScript   3 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.84 %
+CSS          59 mins         ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.83 %
+Markdown     4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.52 %
+HTML         2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.80 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)
