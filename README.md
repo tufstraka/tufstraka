@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)
+<!--[![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)-->
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
