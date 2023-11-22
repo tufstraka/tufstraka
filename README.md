@@ -17,7 +17,7 @@ Alternatively, you can contact me via E-mail ✉ - keithkadima@gmail.com
 - [Rainy day bliss](https://keithkadima.medium.com/rainy-day-bliss-aee043889a3?source=rss-363b51f74ae7------2)
 <!-- BLOG-POST-LIST:END -->
 
-#### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
