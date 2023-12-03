@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Hi there 👋🏿 I am a dedicated full-stack engineer with expertise in agile methodologies and DevOps practices. My skills include optimizing technology processes, automating tasks, and ensuring systems stability. I have a proven ability to communicate effectively and collaborate cross-functionally to achieve set goals. Additionally, I have a passion for innovation and a desire to contribute to a dynamic technology team.
+Hi there 👋🏿 I am a dedicated full-stack engineer with expertise in agile methodologies and DevOps practices. 
 
 I'm always online on Whatsapp if you want to chat or collaborate. [Just click here](https://wa.me/+254701746774) <br/>
 Alternatively, you can contact me via E-mail ✉ - keithkadima@gmail.com 
