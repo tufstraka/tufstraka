@@ -8,8 +8,8 @@ Alternatively, you can contact me via E-mail ✉ - keithkadima@gmail.com
 
 <!--[![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)-->
 
-### Recent blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- ### Recent blog posts
+<!-- BLOG-POST-LIST:START 
 - [Embracing the whirlwind](https://keithkadima.medium.com/embracing-the-whirlwind-9a831508005d?source=rss-363b51f74ae7------2)
 - [Maps, Code‍ and Data.](https://keithkadima.medium.com/maps-code-and-data-9dbe98d66f0d?source=rss-363b51f74ae7------2)
 - [The journey of a browser request](https://keithkadima.medium.com/the-journey-of-a-browser-request-3cbadfda09a7?source=rss-363b51f74ae7------2)
