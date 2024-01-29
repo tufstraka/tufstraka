@@ -1,15 +1,4 @@
 <!--START_SECTION:waka-->
-
-```txt
-From: 21 January 2024 - To: 28 January 2024
-
-Total Time: 8 hrs 31 mins
-
-CSS    4 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.02 %
-HTML   3 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.34 %
-XML    8 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.64 %
-```
-
 <!--END_SECTION:waka-->
 
 Hi there 👋🏿 I am a dedicated full-stack engineer with expertise in agile methodologies and DevOps practices. 
