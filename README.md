@@ -13,7 +13,7 @@ Dart   14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 Hi there 👋🏿 I am a dedicated full-stack engineer with expertise in agile methodologies and DevOps practices. 
 
 <!--I'm always online on Whatsapp if you want to chat or collaborate. [Just click here](https://wa.me/+254701746774) <br/>-->
-You can contact me via E-mail ✉ - keithkadima@gmail.com 
+You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
 
 <!--[![Waka Readme](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml/badge.svg)](https://github.com/tufstraka/tufstraka/actions/workflows/GetWakatimeStats.yml)-->
 
