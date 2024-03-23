@@ -1,12 +1,5 @@
 <!--START_SECTION:waka-->
 
-```txt
-From: 15 March 2024 - To: 22 March 2024
-
-Total Time: 14 mins
-
-Dart   14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
 
 <!--END_SECTION:waka-->
 
