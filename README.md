@@ -39,14 +39,16 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
+  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC5
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva) -->
-<p ><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<p ><img src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="400"></p>
+<p ><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
+<p ><img src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="500"></p>
+<p ><img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="500"></p>
+
 
 
 
