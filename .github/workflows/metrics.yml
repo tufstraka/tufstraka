@@ -86,7 +86,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_music_limit: 5
+          plugin_music_limit: 4
           
   Spotify_top_tracks:
     runs-on: ubuntu-latest
