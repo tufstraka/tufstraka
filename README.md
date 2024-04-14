@@ -49,7 +49,7 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
 <p ><img src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="500"></p>
 <p ><img src="/metrics.plugin.habits.charts.svg" alt="Metrics" width="500"></p>
 <p ><img src="/metrics.plugin.achievements.svg" alt="Metrics" width="500"></p>
-
+<p ><img src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500"></p>
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-light-mode-only)
