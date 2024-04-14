@@ -45,6 +45,8 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva) -->
+<p ><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-light-mode-only)
