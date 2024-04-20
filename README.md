@@ -1,3 +1,5 @@
+
+[![committers.top badge](https://user-badge.committers.top/kenya/tufstraka.svg)](https://user-badge.committers.top/kenya/tufstraka)
 <!--START_SECTION:waka-->
 
 
