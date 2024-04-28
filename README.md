@@ -1,6 +1,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/kenya/tufstraka.svg)](https://user-badge.committers.top/kenya/tufstraka)
-<img src="https://komarev.com/ghpvc/?username=tufstraka">
+<img src="https://komarev.com/ghpvc/?username=tufstraka&style=for-the-badge">
 <!--START_SECTION:waka-->
 
 
