@@ -67,9 +67,6 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   <span style="flex: 1;">
     <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400">
   </span>
-  <span style="flex: 1; ">
-    <img src="/metrics.plugin.achievements.svg" alt="Achievements" width="400">
-  </span>
 </div>
 
 
