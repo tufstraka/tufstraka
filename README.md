@@ -6,6 +6,7 @@
 
 <!--END_SECTION:waka-->
 
+Open to work 👨🏿‍💻
 <!--Hi there 👋🏿 I am a dedicated full-stack engineer with expertise in agile methodologies and DevOps practices. 
 
 <!--I'm always online on Whatsapp if you want to chat or collaborate. [Just click here](https://wa.me/+254701746774) <br
