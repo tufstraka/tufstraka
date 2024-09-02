@@ -52,9 +52,9 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
 <span style="flex: 1; ">
      <img src="metrics.plugin.music.recent.svg" alt="Recent music" width="400">
   </span>
-    <span style="flex: 1;">
+  <!--  <span style="flex: 1;">
     <img src="metrics.plugin.music.top.svg" alt="Top music" width="400">
-  </span>
+  </span>-->
   <span style="flex: 1;">
     <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400">
   </span>
