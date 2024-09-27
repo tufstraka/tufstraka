@@ -39,7 +39,7 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva) -->
-<div style="display: flex; flex-wrap: wrap;">
+<!--<div style="display: flex; flex-wrap: wrap;">
   <span style="flex: 1;">
     <img src="/github-metrics.svg" alt="Metrics" width="400">
   </span>
@@ -49,19 +49,19 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   <span style="flex: 1;">
     <img src="/metrics.plugin.habits.charts.svg" alt="Habit charts" width="400">
   </span>
-<!--<span style="flex: 1; ">
+<span style="flex: 1; ">
      <img src="metrics.plugin.music.recent.svg" alt="Recent music" width="400">
   </span>
-  <!--  <span style="flex: 1;">
+    <span style="flex: 1;">
     <img src="metrics.plugin.music.top.svg" alt="Top music" width="400">
-  </span>-->
+  </span>
   <span style="flex: 1;">
     <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400">
   </span>
   <span style="flex: 1;">
     <img src="metrics.plugin.code.svg" alt="Code snippet" width="400">
   </span>
-</div>
+</div>-->
 
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
