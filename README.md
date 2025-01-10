@@ -63,6 +63,10 @@ You can contact me via E-mail ✉ - keithkadima@gmail.com | kadimak@loc-safe.com
   </span>
 </div>-->
 
+  <span style="flex: 1; ">
+     <img src="metrics.plugin.music.recent.svg" alt="Recent music" width="400">
+  </span>
+
 
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kadimakeith/github-stats/master/generated/languages.svg#gh-light-mode-only)
