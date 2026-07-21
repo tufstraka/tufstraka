@@ -20,7 +20,7 @@
 
 </div>
 
----
+<!-- ---
 
 I build things across the stack — backend systems, blockchain protocols, and AI-powered products. Currently contributing to open source and doing security research/bug bounties.
 
@@ -68,7 +68,7 @@ I build things across the stack — backend systems, blockchain protocols, and A
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**BFR**](https://github.com/tufstraka/BFR) | Multi-user movie/TV show review platform | TypeScript |
+| [**BFR**](https://github.com/tufstraka/BFR) | Multi-user movie/TV show review platform | TypeScript | -->
 
 ---
 
