@@ -1,6 +1,6 @@
 <div align="center">
 
-**Software Engineer · Security Researcher · Nairobi 🇰🇪**
+**Software Engineer · Security Researcher**
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/kenyaparrot.gif" width="25" height="25"/>
